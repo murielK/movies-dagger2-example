@@ -34,7 +34,7 @@ git https://github.com/murielK/movies-dagger2-example.git
 
 5. Add the key in your local.properties file as follow **API_KEY="mykey"**  
 
-6. Run the command **./gradlew** installDebug to install the app in your device
+6. Run the command **./gradlew installDebug** to install the app in your device
    
 
 
