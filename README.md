@@ -1,6 +1,6 @@
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine.
+A simple movie app example using Dagger 2 for my blog post about [Dagger 2 — Dependency Injection basics in Android].
 
 ## Prerequisites
 
@@ -40,3 +40,4 @@ git https://github.com/murielK/movies-dagger2-example.git
 
 [Android Studio]:http://developer.android.com/sdk/installing/studio.html
 [How to set up signature keys]:https://bitbucket.org/ag04/android-how-to-sign-apk/src/master/
+[Dagger 2 — Dependency Injection basics in Android]:https://medium.com/agency04/dagger-2-dependency-injection-basics-in-android-be229d99a0a
